@@ -1,8 +1,10 @@
-# Ti Oxidation EELS data processing
- 
+# Ti Oxidation EELS Data Processing
 
-Please find an exemple of the data processing that has been applied to TEM EELS measurement of the titanium oxidation state in both standards and natural sample.
-The repository consist of two demos a) TiO2 standard with ultimately a single spectrum and b) An exemple of the data processing of a map has also been added on a meteoritic perovskite grain (one spectrum per pixel). 
-Please find the related paper here: (https://doi.org/10.2138/am-2022-8311). Cite the authors if you are using it. 
+This repository demonstrates the data processing applied to TEM EELS measurements of the titanium oxidation state in both standards and natural samples. It includes two demos:
 
-To open it, use Jupyter notebook and click on "TiO2.ipynb". Latest hyperspy version is required
+TiO2 Standard: A single spectrum analysis.
+Meteoritic Perovskite Grain: An example of data processing for a map, with one spectrum per pixel.
+For more details, please refer to the related paper: DOI: 10.2138/am-2022-8311. If you use this work, please cite the authors.
+
+Instructions
+To open and run the demos, use Jupyter Notebook and select the "TiO2.ipynb" file. Ensure you have the latest version of Hyperspy installed.
